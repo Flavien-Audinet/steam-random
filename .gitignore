@@ -1,0 +1,6 @@
+# Données personnelles générées par les scripts (bibliothèque, compte Steam)
+userdata.json
+steam_games_cache.json
+steam_catalog.json
+__pycache__/
+.DS_Store
