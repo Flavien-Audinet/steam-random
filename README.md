@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-Web%20API-171a21?logo=steam)
 ![Dépendances](https://img.shields.io/badge/dépendances-aucune-2ea44f)
+![Licence](https://img.shields.io/badge/licence-tous%20droits%20réservés-red)
 ![Version](https://img.shields.io/badge/version-1.0.0-2ea44f)
 
 </div>
@@ -132,6 +133,12 @@ steam-random/
 - [ ] filtre par genre / tag Steam ;
 - [ ] exclure les jeux déjà terminés (succès à 100 %) ;
 - [ ] petite interface graphique.
+
+---
+
+## 📜 Licence
+
+**Tous droits réservés.** Tu peux consulter, télécharger et utiliser les scripts gratuitement ; la modification, la revente et la redistribution sont interdites sans accord écrit. Détails : [LICENSE.md](LICENSE.md).
 
 ---
 
